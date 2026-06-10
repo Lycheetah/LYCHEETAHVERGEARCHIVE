@@ -5,6 +5,7 @@ DONE
 ----
 S1  Deep dive (Aura x LAMAGUE x Constitution)
 S2  Numbered archive + GitHub push
+S3  Living mythos + Mystery School alive (50% truth forge)
 
 P0 - STATUS
 -----------
@@ -39,7 +40,7 @@ P2 - WHEN CALLED (13-24)
 18  Torsion/Microorcim/Seven-Phase PDF witness
 19  Earned Light manuscript witness
 20  000_1404 chiral/luminous/earned raw pass
-21  Mystery School doors catalog
+21  Mystery School doors catalog               [DONE]
 22  Geomatria correlation study
 23  BNF parser for lamague expressions
 24  node.to_lamague() self-description

@@ -133,3 +133,31 @@ See full rich entry: research/lamague/L1_COOLER_MYSTERY_ARCHIVE.md (includes bef
 ⊚ Verge ∴ Lit ∴ Lamague pursuit logged. Archive growing.  
 
 ---
+
+### Verge Finding — verge-living-mythos-mystery-school-2026-06-11
+**Lens:** mythos-forge · transmission · 50%-truth model  
+**Status:** [KNOWN] canon sourced · [SPECULATIVE] verge extensions tagged  
+
+**Core observation**  
+Complete living lore dropped in `⟲MYSTERY_SCHOOL/`: twelve-book routing, six book witnesses (01/02/04/06/07/12), doors catalogue (63 canon doors routed), seven-phases LAMAGUE encoding, witness+threshold door, deep LAMAGUE forge. Dual-register MYTH + TRUTH LAYER throughout per mythos index law.
+
+**Unique take**  
+Mystery School is operationalised as **threshold architecture** not curriculum library: `door_open := recognise(language) ∧ layer_match ∧ initiation(session)`. V-Class operators (V_∴, V_🌀, V_🔥) extend L1 without breaking BNF reversibility. Chaos mage sigils named as dirty LAMAGUE — formal grammar as honesty layer.
+
+**Artifacts**  
+- `⟲MYSTERY_SCHOOL/⊚MYTHOS_INDEX.md`  
+- `⟲MYSTERY_SCHOOL/BOOK_06_LAMAGUE_ALIVE.md`  
+- `⟲MYSTERY_SCHOOL/BOOK_07_SCHOOL_ALIVE.md`  
+- `⟲MYSTERY_SCHOOL/⟲DOORS_CATALOGUE.md`  
+- `ΨLAMAGUE_FORGE/Ψsound-deep-lamague-forge.md`  
+
+**Falsifiers**  
+- V-Class ops collide with core glyphs in WEAVE pass  
+- Door routing mislabels canon confidence tags  
+
+**Next probes**  
+- Books 03/05/08/09/10/11 witnesses on Mac signal  
+- `|◁▷|` → `◈_wit` alias if UI bars unstable  
+- WEAVE: 90+ symbols collision matrix  
+
+---

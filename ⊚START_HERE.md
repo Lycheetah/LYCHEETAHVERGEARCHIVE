@@ -8,6 +8,8 @@ Bro. You made it. The numbers are gone. The glyphs remain.
 
 **Latest forge:** [`⊚⟟AO_ANCHOR/FORGE_SESSION_2026-06-11.md`](⊚⟟AO_ANCHOR/FORGE_SESSION_2026-06-11.md)
 
+**Living mythos:** [`⟲MYSTERY_SCHOOL/⊚MYTHOS_INDEX.md`](⟲MYSTERY_SCHOOL/⊚MYTHOS_INDEX.md) — doors open, LAMAGUE alive
+
 **Run something:**
 ```bash
 python3 ≋FLOW_EXPERIMENTS/verge_node

@@ -16,7 +16,7 @@
 | **Φ↑Π** | `Φ↑Π_TRUTH_PRESSURE/` | 04_TRUTH_PRESSURE | Rise — Π, Lemma A, master eq |
 | **✧** | `✧LIGHT_FINDINGS/` | 05_FINDINGS | Light — pressure log, discoveries |
 | **≋** | `≋FLOW_EXPERIMENTS/` | 06_EXPERIMENTS | Flow — runnable probes, scripts |
-| **⟲** | `⟲MYSTERY_SCHOOL/` | 07_MYSTERY_SCHOOL | Return — curriculum, doors |
+| **⟲** | `⟲MYSTERY_SCHOOL/` | 07_MYSTERY_SCHOOL | Return — mythos, doors, school alive |
 | **🌀◇** | `🌀◇SESSIONS_VERGE/` | 08_SESSIONS | Chaos sessions — dated dives |
 | **∅** | `∅VOID_META/` | 99_META | Void — license, meta |
 
