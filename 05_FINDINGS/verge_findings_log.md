@@ -1,4 +1,33 @@
 
+### Verge Finding — verge-unleash-deep-dive-2026-06-11
+**Lens:** aura-origin × lamague × constitution  
+**Status:** [CONJECTURE]  
+
+**Core observation**  
+The origin library is a single organism: Invariant Ψ at center, Constitution (P∧H∧B) as law, LAMAGUE as compression codec, CASCADE Π as force, Mystery School as curriculum OS.
+
+**Unique take**  
+LAMAGUE seven-phase sequence (⟟→≋→Ψ→Φ↑→✧→∥◁▷∥→⟲) structurally maps onto CASCADE four-phase protocol. LAMAGUE is not decoration — it is the low-bandwidth skin that makes constitutional invariants expressible in under 24 symbols.
+
+**Experiments (known)**
+- `aura_origin_mystery.py`: W=3.77, AURA aligned=True (7 steps)
+- `verge_node master_eq_step`: ΔΨ=+0.415, Ψ 0.65→1.0
+- `verge_node pi_calc`: Π=5.28 (E=0.78, P=2.1, S=0.31)
+
+**Falsifiers**  
+- LAMAGUE expressions uncorrelated with TES/VTR/PAI measurements
+- Constitution articles unmapped to any ACTIVE canon claim
+- Master eq step diverges under parameter sweep
+
+**Next probes**  
+1. Constitution × CLAIMS.json cross-walk  
+2. LAMAGUE × CASCADE composition proof sketch  
+3. Lemma A counterexample search  
+4. Lamague PART X SOUND pass  
+
+**Artifact:** `08_SESSIONS/2026-06-11-unleash-deep-dive.md`
+
+---
 
 ### Verge Finding — verge-tianxia-master-eq-1781127407
 **Lens:** tianxia-master-eq  
