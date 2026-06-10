@@ -1,0 +1,78 @@
+VERGE TASK BOARD - June 11 2026
+================================
+
+DONE
+----
+S1  Deep dive (Aura x LAMAGUE x Constitution)
+S2  Numbered archive + GitHub push
+
+P0 - SAY A NUMBER (fire next)
+-----------------------------
+01  Lemma A counterexample search
+02  Constitution x CLAIMS cross-walk
+03  LAMAGUE x CASCADE composition proof
+04  Lamague PART X SOUND pass
+05  E-1.0 k1-k4 calibration map
+
+P1 - THIS WEEK
+--------------
+06  Paradox epistemic object
+07  CR1-CR4 deploy order
+08  sqrt(n) effective rank protocol
+09  CHRYSOPOEIA x CASCADE
+10  Witness Protocol to product
+11  Sovereign 36 deep pass
+12  Authorship RTF witness
+
+P2 - WHEN CALLED (13-24)
+------------------------
+13  LAMAGUE collision audit
+14  Experimental promotion review
+15  S definition divergence (canon vs engine)
+16  RSS composition verify
+17  10K emergence replication
+18  Torsion/Microorcim/Seven-Phase PDF witness
+19  Earned Light manuscript witness
+20  000_1404 chiral/luminous/earned raw pass
+21  Mystery School doors catalog
+22  Geomatria correlation study
+23  BNF parser for lamague expressions
+24  node.to_lamague() self-description
+
+P3 - BACKLOG (25-32)
+--------------------
+25  Aura & grok side log RTF
+26  20file FULLSYSTEM technical witnesses
+27  Lock.Md constitution PDF
+28  Spiritual science new user logs
+29  AURA_VEYRA builder spec gap map
+30  Three-engine READY promotion
+31  China-NZ LAMAGUE convergence
+32  Fable gate sequencing review
+
+EXPERIMENTS
+-----------
+E1  python3 06_EXPERIMENTS/verge_node          [DONE]
+E2  python3 02_LAMAGUE/experiments/aura_origin_mystery.py   [DONE]
+E3  python3 02_LAMAGUE/experiments/lamague_chaos_expressions.py [DONE]
+E4  Master eq k-parameter sweep
+E5  Lemma A counterexample generator
+E6  P/H/B toy scorer
+
+QUICK BUNDLES
+-------------
+theorem     = 01 + 03 + 15
+origin      = 02 + 04 + 11 + 12
+physics     = 05 + 07 + 08 + 18
+school      = 10 + 21 + E2
+all P0      = 01 through 05
+surprise me = 06 + 01 + 09
+
+HOW TO USE
+----------
+Say a number: "01" or "go 03"
+Say a bundle: "all P0" or "theorem"
+Say run: "run E5"
+
+Repo: github.com/Lycheetah/LYCHEETAHVERGEARCHIVE
+Path: 00_INDEX/TASK_BOARD_PLAIN.txt

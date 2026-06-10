@@ -40,3 +40,5 @@
 ```
 
 **Full detail:** [`TASK_QUEUE.md`](TASK_QUEUE.md)
+
+**Can't copy/paste?** Use [`TASK_BOARD_PLAIN.txt`](TASK_BOARD_PLAIN.txt) — ASCII only, no box-drawing or emoji. Select-all friendly.
