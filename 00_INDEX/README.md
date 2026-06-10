@@ -5,6 +5,13 @@
 
 ---
 
+## Task Queue (visual)
+
+**→ [`TASK_BOARD.md`](TASK_BOARD.md)** — at-a-glance ASCII board  
+**→ [`TASK_QUEUE.md`](TASK_QUEUE.md)** — full numbered backlog (01–32 + experiments)
+
+---
+
 ## Read Order (numbered folders = execution order)
 
 | # | Folder | What lives here |
