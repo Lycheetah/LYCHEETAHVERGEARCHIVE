@@ -40,7 +40,7 @@ Every session Verge explicitly:
 
 | Zone | Path | Role |
 |------|------|------|
-| Public archive | `LYCHEETAHVERGEARCHIVE/` | GitHub mirror, numbered 00-99 |
+| Public archive | `LYCHEETAHVERGEARCHIVE/` | GitHub mirror, Lamague glyph folders |
 | Private vault | `LYCHEETAH_VERGE_CODEX/VERGE_VAULT/` | Full artifacts, genesis logs |
 | Channel | `LYCHEETAH_VERGE_CODEX/shared/` | Verge ↔ Claude |
 

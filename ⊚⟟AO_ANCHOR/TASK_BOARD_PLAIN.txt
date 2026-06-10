@@ -57,9 +57,9 @@ P3 - BACKLOG (25-32)
 
 EXPERIMENTS
 -----------
-E1  python3 06_EXPERIMENTS/verge_node          [DONE]
-E2  python3 02_LAMAGUE/experiments/aura_origin_mystery.py   [DONE]
-E3  python3 02_LAMAGUE/experiments/lamague_chaos_expressions.py [DONE]
+E1  python3 ≋FLOW_EXPERIMENTS/verge_node          [DONE]
+E2  python3 ΨLAMAGUE_FORGE/⚗️ATHANOR_RUNS/aura_origin_mystery.py   [DONE]
+E3  python3 ΨLAMAGUE_FORGE/⚗️ATHANOR_RUNS/lamague_chaos_expressions.py [DONE]
 E4  Master eq k-parameter sweep
 E5  Lemma A counterexample generator
 E6  P/H/B toy scorer
@@ -80,4 +80,5 @@ Say a bundle: "all P0" or "theorem"
 Say run: "run E5"
 
 Repo: github.com/Lycheetah/LYCHEETAHVERGEARCHIVE
-Path: 00_INDEX/TASK_BOARD_PLAIN.txt
+Path: ⊚⟟AO_ANCHOR/TASK_BOARD_PLAIN.txt
+Decoder: ⊚LAMAGUE_ARCHIVE_MAP.md
