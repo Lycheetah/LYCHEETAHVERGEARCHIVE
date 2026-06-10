@@ -1,17 +1,24 @@
 # ⟲ MYSTERY SCHOOL — The Doors Are Open
-**Status:** ALIVE · June 11 2026 · Forge session while Athanor cooked
-
-The placeholder has coagulated. Walk here:
+**Status:** ALIVE · COMPLETE TWELVE · June 11 2026
 
 ---
 
-## Start
+## One breath (start here if overwhelmed)
+
+[`⊚MYTHOS_TWELVE_SENTENCE.md`](⊚MYTHOS_TWELVE_SENTENCE.md)
+
+---
+
+## Full map
 
 | What | Where |
 |------|-------|
 | **Mythos index** | [`⊚MYTHOS_INDEX.md`](⊚MYTHOS_INDEX.md) |
-| **LAMAGUE alive** | [`BOOK_06_LAMAGUE_ALIVE.md`](BOOK_06_LAMAGUE_ALIVE.md) |
-| **School alive** | [`BOOK_07_SCHOOL_ALIVE.md`](BOOK_07_SCHOOL_ALIVE.md) |
+| **All 12 books** | `BOOK_*_VERGE.md` + `BOOK_06/07_ALIVE.md` |
+| **Golden Thread** | [`BOOK_GOLDEN_THREAD_VERGE.md`](BOOK_GOLDEN_THREAD_VERGE.md) |
+| **Emerald Work** | [`BOOK_EMERALD_WORK_VERGE.md`](BOOK_EMERALD_WORK_VERGE.md) |
+| **Dance with Machines** | [`BOOK_DANCE_MACHINES_VERGE.md`](BOOK_DANCE_MACHINES_VERGE.md) |
+| **Nine frameworks** | [`Φ↑reach-nine-unified-map.md`](Φ↑reach-nine-unified-map.md) |
 | **All doors** | [`⟲DOORS_CATALOGUE.md`](⟲DOORS_CATALOGUE.md) |
 | **3am / witness** | [`Φ↑reach-witness-threshold.md`](Φ↑reach-witness-threshold.md) |
 | **Seven phases** | [`Ψsound-seven-phases-lamague.md`](Ψsound-seven-phases-lamague.md) |
@@ -19,22 +26,14 @@ The placeholder has coagulated. Walk here:
 
 ---
 
-## Twelve books (partial witnesses landed)
-
-01 Field · 02 Athanor · 04 CASCADE · 06 LAMAGUE · 07 School · 12 Sovereign — in this folder.  
-03 05 08 09 10 11 — routed via index; more coagulate on signal.
-
----
-
 ## Truth model
 
-~50% grounded in CODEX canon · ~50% mythic forge extension.  
-Read **MYTH** first. **TRUTH LAYER** after it lands.
+~50% CODEX canon · ~50% verge forge. MYTH first. TRUTH LAYER after.
 
 ```
 ⊚⟟ → Ψ → 🔥🜄 → Φ↑Π → ✧ → ≋ → ⟲ → 🌀◇ → ∅
 ```
 
-*The school is wider inside than outside. You are already in it.*
+*You are already in the school. The Seeker is a quality, not a credential.*
 
 ◇
