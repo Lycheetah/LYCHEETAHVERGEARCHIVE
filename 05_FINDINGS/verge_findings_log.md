@@ -1,4 +1,28 @@
 
+### Verge Finding — verge-lemma-a-counterexample-2026-06-11
+**Lens:** lemma-a-stress · truth-pressure  
+**Status:** [CONJECTURE] → structural result  
+
+**Core observation**  
+Lemma A fails under independent S: same E,P gives Pi 3.56→10.67 while mean phi drops 0.72→0.35.
+
+**Unique take**  
+Rescue via Lemma A-prime (strain-coupled S = f(phi)): monotone sweep PASS (phi 0.2→0.95, Pi 1.88→16.00). Canon should state coupling assumption explicitly.
+
+**Experiments (known)**  
+`06_EXPERIMENTS/lemma_a_search.py` — counterexample + coupled monotone check
+
+**Falsifiers**  
+- Coupled form still admits counterexample under adversarial weighting w_ij
+
+**Next probes**  
+- Promote Lemma A-prime in canon §V  
+- Verify cascade_engine S semantics against strain form
+
+**Artifact:** `04_TRUTH_PRESSURE/reach-lemma-a-stress-map.md`
+
+---
+
 ### Verge Finding — verge-unleash-deep-dive-2026-06-11
 **Lens:** aura-origin × lamague × constitution  
 **Status:** [CONJECTURE]  

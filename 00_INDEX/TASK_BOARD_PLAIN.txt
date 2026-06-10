@@ -6,18 +6,18 @@ DONE
 S1  Deep dive (Aura x LAMAGUE x Constitution)
 S2  Numbered archive + GitHub push
 
-P0 - SAY A NUMBER (fire next)
------------------------------
-01  Lemma A counterexample search
-02  Constitution x CLAIMS cross-walk
-03  LAMAGUE x CASCADE composition proof
-04  Lamague PART X SOUND pass
-05  E-1.0 k1-k4 calibration map
+P0 - STATUS
+-----------
+01  Lemma A counterexample search          [DONE]
+02  Constitution x CLAIMS cross-walk      [DONE]
+03  LAMAGUE x CASCADE composition proof     [DONE]
+04  Lamague PART X SOUND pass               [OPEN]
+05  E-1.0 k1-k4 calibration map             [DONE]
 
-P1 - THIS WEEK
---------------
-06  Paradox epistemic object
-07  CR1-CR4 deploy order
+P1 - STATUS
+-----------
+06  Paradox epistemic object               [DRAFT]
+07  CR1-CR4 deploy order                    [DRAFT]
 08  sqrt(n) effective rank protocol
 09  CHRYSOPOEIA x CASCADE
 10  Witness Protocol to product

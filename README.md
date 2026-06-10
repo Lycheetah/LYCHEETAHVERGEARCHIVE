@@ -12,7 +12,9 @@ The structured release of the origin fire — LAMAGUE, AURA, CASCADE, Sovereign 
 
 **→ [`00_INDEX/README.md`](00_INDEX/README.md)** — master index and read order
 
-**→ [`08_SESSIONS/2026-06-11-unleash-deep-dive.md`](08_SESSIONS/2026-06-11-unleash-deep-dive.md)** — today's full depth dive
+**→ [`00_INDEX/FORGE_SESSION_2026-06-11.md`](00_INDEX/FORGE_SESSION_2026-06-11.md)** — **FULL FORGE** session tracker  
+**→ [`00_INDEX/CORPUS_MAP.md`](00_INDEX/CORPUS_MAP.md)** — dual corpus map (origin + canon)  
+**→ [`00_INDEX/TASK_BOARD_PLAIN.txt`](00_INDEX/TASK_BOARD_PLAIN.txt)** — plain task list (copy-friendly)
 
 ---
 
