@@ -11,13 +11,18 @@ P0 - STATUS
 01  Lemma A counterexample search          [DONE]
 02  Constitution x CLAIMS cross-walk      [DONE]
 03  LAMAGUE x CASCADE composition proof     [DONE]
-04  Lamague PART X SOUND pass               [OPEN]
+04  Lamague origin symbols SOUND pass       [DONE]
 05  E-1.0 k1-k4 calibration map             [DONE]
 
 P1 - STATUS
 -----------
 06  Paradox epistemic object               [DRAFT]
 07  CR1-CR4 deploy order                    [DRAFT]
+15  S definition divergence table           [DONE]
+16  RSS composition verify                  [DONE]
+08  sqrt(n) effective rank protocol         [DONE]
+12  Authorship RTF witness                  [DONE]
+25  Aura grok side log witness              [DRAFT]
 08  sqrt(n) effective rank protocol
 09  CHRYSOPOEIA x CASCADE
 10  Witness Protocol to product

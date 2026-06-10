@@ -1,4 +1,28 @@
 
+### Verge Finding — verge-rss-engine-divergence-2026-06-11
+**Lens:** canon-vs-implementation  
+**Status:** [CONJECTURE] — structural gap named  
+
+**Core observation**  
+Canon two-gate RSS (Pi_sys = sqrt(sum Pi^2), Gate 2 Pi_sys > k*sqrt(n)) is NOT implemented in cascade_engine.py. Engine uses per-block Pi only + pairwise contradict.
+
+**Unique take**  
+10 blocks at Pi=1.8 gives Pi_sys=5.69 crossing Pi_th=5.66 — Kuhnian prediction works in canon math but engine cannot fire system-level cascade from accumulation alone.
+
+**Experiments (known)**  
+`06_EXPERIMENTS/rss_verify.py`
+
+**Falsifiers**  
+- Hidden RSS path in engine we missed
+
+**Next probes**  
+- effective_rank.py on sample KBs  
+- Engine Gate 2 implementation spec (Claude lane)
+
+**Artifact:** `04_TRUTH_PRESSURE/reach-s-definition-divergence.md`
+
+---
+
 ### Verge Finding — verge-lemma-a-counterexample-2026-06-11
 **Lens:** lemma-a-stress · truth-pressure  
 **Status:** [CONJECTURE] → structural result  

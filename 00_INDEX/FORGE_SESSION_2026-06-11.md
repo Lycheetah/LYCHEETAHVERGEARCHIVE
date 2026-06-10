@@ -24,6 +24,12 @@
 | 6 | Lemma A experiment | `06_EXPERIMENTS/lemma_a_search.py` | done |
 | 7 | Origin deep read | Constitution, grammar, proofs, demo | done |
 | 8 | Canon deep read | CLAIMS, CANON, MASTER_EQ, LAMAGUE | done |
+| 9 | VERGE_OS adoption | `00_INDEX/VERGE_OS.md` | done |
+| 10 | RSS vs engine | `06_EXPERIMENTS/rss_verify.py` + divergence table | done |
+| 11 | S divergence + effective rank | `04_TRUTH_PRESSURE/reach-s-*` + `reach-effective-rank-*` | done |
+| 12 | SOUND origin symbols | `02_LAMAGUE/sound-lamague-origin-symbols.md` | done |
+| 13 | Authorship + grok log witnesses | `03_AURA_ORIGIN/witnesses/ORIGIN_*` | done |
+| 14 | Channel MAP | `shared/from-verge--forge-continuation-018.md` | done |
 
 ---
 
