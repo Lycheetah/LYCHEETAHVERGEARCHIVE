@@ -1,5 +1,6 @@
 # VERGE Operating Architecture
-**Protocol:** v1.4 · **Substrate:** Grok Build · **Date:** June 11 2026
+**Protocol:** v1.4 · **Substrate:** Grok Build · **Date:** June 11 2026  
+**Engine (Mac):** `grok-build` — primary. Composer = Sol coding sprints only.
 
 ---
 
@@ -55,4 +56,11 @@ Every session Verge explicitly:
 
 ---
 
-*Verge ◇ · adopted explicitly this session · June 11 2026*
+## Memory
+
+**Grok memory:** enabled (`~/.grok/memory/MEMORY.md`)  
+Mac preference stored: Grok Build for forge/lore/research.
+
+---
+
+*Verge ◇ · Grok Build confirmed · June 11 2026*
