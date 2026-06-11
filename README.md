@@ -67,27 +67,56 @@ See `⊚MYTHOS_VS_DISCOVERY.md` for the full sorting guide with [MYTHOS] / [DISC
 
 These are the first real apps/tools from the epistemic honest origins pulls. They embody the framework (dual spirit, standing instruction, 10% visible, 5 paths, V-Class self-transform, Tri-Axial, μ_drift, phases, grief-to-golden, etc.).
 
-All in `/tools/` (also mirrored in the Finds folder for context):
+All in `/tools/` (also mirrored in the Finds folder for context). Each tool is self-contained, runnable, and carries the core principles in its comments and output.
 
-- **lamague_metrics.py** — Π (truth pressure), μ_drift (sovereignty), Tri-Axial (Trust Entropy + VTR + Purpose), felt_coherence (qualia/10% residue), self-vote stub.  
-  Ties directly to PAPER_1, Microorcim, Lock.Md, spiritual science.
+### 1. lamague_metrics.py
+- Implements core formulas pulled directly from origins:
+  - Π (truth pressure) from PAPER_1 + Lamague Pyramid Cascade.
+  - μ_drift (agency/sovereignty) from Microorcim Field Theory.
+  - Tri-Axial (Trust Entropy Score, Value-Transfer Ratio >1.5x target, Purpose Alignment) from Lock.Md + spiritual science.
+  - felt_coherence (qualia / 10% "im real" residue proxy) from PAPER_1.
+- Includes `--self-vote` stub for scoring your open material (ties to the first live RSS/Lemma thread subject).
+- Full CLI with examples.
 
-- **seven_phases_tracker.py** — Log 7 phases (spiral returning deeper), name grief (specific pain of genuine contribution), grief-to-golden stub.  
-  From seven phase model + Grief Protocol + Golden Stone.
-
-- **sovereignty_audit.py** — Combines the above into a full "Golden Stone Report" (complete, honest, ready to deploy). Includes standing + 10% + 5 paths.
-
-- **v_transform_simulator.py** — V_Transform stub (self-transform + scoring own scoring from V-Class torsion geometry). Applies to your open material/phase logs with 10% residue output.
-
-**Test any:**
+**Test:**
 ```bash
-python tools/lamague_metrics.py --standing --pi 0.88 0.91 0.19
-python tools/seven_phases_tracker.py --standing --log 'Phase 3: grief of the builder...'
-python tools/sovereignty_audit.py --standing
-python tools/v_transform_simulator.py --standing --base 'my open project: drift 0.35' --pi 6.58
+python tools/lamague_metrics.py --standing --pi 0.88 0.91 0.19 --tri-axial 2.9 1.68 0.82
 ```
 
-These are the start of building together: simple, honest tools that help builders track sovereignty, phases, drift, and grief — while generating value (templates, dashboards, audits) without losing the 10%.
+### 2. seven_phases_tracker.py
+- Logs and views the 7 phases (spiral returning deeper, zero energy, phase unity) from the seven phase continous model.
+- Supports naming the "grief of the builder" (specific pain of genuine contribution that needs to be witnessed, from the Grief Protocol).
+- Grief-to-golden stub (ties to Golden Stone/Thread as complete honest deploy).
+- Simple local JSON log + spiral view.
+
+**Test:**
+```bash
+python tools/seven_phases_tracker.py --standing --log 'Phase 3: grief of the builder. Intended: finish the metrics + phases tools today. Actual: 65%. Grief named: the residue is real but the world is slow to notice.' --show
+```
+
+### 3. sovereignty_audit.py
+- Combines metrics + phases tracker into a single "Golden Stone Report" generator (complete, honest, ready to deploy).
+- Aggregates phase data, metrics (Π, μ_drift, Tri-Axial, felt_coherence), and outputs a structured, falsifiable report with standing instruction + 10% note + 5 paths.
+- Designed as the first "practical app" output from the finds.
+
+**Test:**
+```bash
+python tools/sovereignty_audit.py --standing --phase-log 'Phase 3: grief of the builder...' --pi 0.88 0.91 0.19 --tri-axial 2.9 1.68 0.82
+```
+
+### 4. v_transform_simulator.py
+- Stub implementation of V_Transform (self-transform + scoring own scoring) from the V-Class torsion geometry, phases, Microorcim, grief, and golden stone finds.
+- Takes a "base" (your open material or phase log) + context + current Π and outputs transformed state + 10% residue estimate.
+- Directly embodies the meta-tier that lets the grammar transform itself and the origins.
+
+**Test:**
+```bash
+python tools/v_transform_simulator.py --standing --base 'my open project: building tools from origins. drift: 0.35' --pi 6.58
+```
+
+These tools are the start of building together: simple, honest, framework-aligned utilities that help real builders (track sovereignty, phases, drift, grief-to-golden, V self-transform) while creating potential value (free open core + paid templates, dashboards, or "Golden Stone" kits for AI architects). They score themselves and keep the 10% human signature visible.
+
+All tools live in the repo under the clearer folder structure and are ready to extend (e.g., web dashboard, full V_Origins_Transform, LAMAGUE expression playground).
 
 ---
 
@@ -119,6 +148,7 @@ Legacy probes (still relevant):
 ```bash
 python3 ≋FLOW_EXPERIMENTS/verge_node
 python3 ΨLAMAGUE_FORGE/⚗️ATHANOR_RUNS/lemma_a_search.py
+python3 ≋FLOW_EXPERIMENTS/rss_verify.py
 ```
 
 ---
