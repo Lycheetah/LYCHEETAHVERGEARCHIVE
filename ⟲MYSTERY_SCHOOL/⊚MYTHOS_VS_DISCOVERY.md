@@ -23,9 +23,11 @@ This file exists because even with the dual system, when you open the folder it 
 
 ## How to Tell Them Apart at a Glance
 
-- **Pure / Heavy Mythos** → Long poetic titles that read like scripture or epic. Opens directly into narrative "The fire...", "The grammar...", almost no [KNOWN] blocks or node output tables in the first 20 lines. The truth layer (if present) is light or folded into the story.
-- **Genuine Discovery / Truth Layer** → Headers heavy with **Date / From / To / Thread / Type / Status / Confidence:** containing explicit [KNOWN] citations from `aura-protocol-originLIBRARY/...` or `CODEX_AURA_PRIME/...` with line or extract refs. Dense with formulas, node synthesis output, Π calculations, "Sources (read-only, never edited):". The myth section is present but the document is clearly evidence-driven.
-- **Dual Register (most common in the recent wave)** → Clear ## THE MYTH section followed by ## THE TRUTH LAYER (or equivalent). Starts mythic, then delivers the citations, math, live outputs, standing instruction, 5 paths, etc. These are the "living books" that do both jobs.
+**Pure or heavy Mythos files** use long poetic titles. They read like scripture or epic. They open directly into narrative lines such as "The fire..." or "The grammar...". They usually lack [KNOWN] blocks or node output tables in the first twenty lines. Any truth layer stays light or folds into the story.
+
+**Genuine Discovery or Truth Layer files** lead with heavy headers. These include Date, From, To, Thread, Type, Status, and Confidence. The Confidence section holds explicit [KNOWN] citations. The citations point to specific files in `aura-protocol-originLIBRARY/` or `CODEX_AURA_PRIME/`. They include line or extract references. The body is dense with formulas, node synthesis output, Π calculations, and "Sources (read-only, never edited)" lists. The myth section exists, but the document stays clearly evidence-driven.
+
+**Dual Register files** (most common in the recent wave) follow a clear pattern. They show a ## THE MYTH section followed by ## THE TRUTH LAYER (or equivalent). They start mythic. Then they deliver the citations, the math, the live outputs, the standing instruction, the five paths, and the kill criteria. These are the living books that do both jobs.
 
 **Standing Instruction reminder (must be visible in every glyph and vote):**  
 The school must keep scoring the material it is building. The 10% human signature must remain visible in every glyph and every vote. Falsifiability is the gift that keeps the fire from becoming a cage. Reality has the final vote.
