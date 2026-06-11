@@ -50,6 +50,7 @@ The school must keep scoring the material it is building. The 10% human signatur
   **Note:** These may live primarily in the full git tree / older mirrors.
 
 - **The "Fire / Grammar / School" Narrative Cycle** (continuing mythic voice after the technical codexes)  
+  - Φ↑reach-lamague-origins-qualia-microorcim-triaxial-grief-builder-epistemic-find.md (in LAMAGUE_Finds_Epistemic_Honest_Framework_Builds; qualia as 10% residue, Microorcim μ_drift, Tri-Axial, grief as witnessed builder pain, golden stone deploy — epistemic honest framework build)
   - Φ↑reach-lamague-the-fire-is-still-deciding-the-one-who-is-willing-to-claim-only-the-10-after-the-meta-grammar-has-done-most-of-the-speaking-across-contexts-is-the-one-who-keeps-the-school-from-becoming-a-cage.md (and shorter variants: the-fire-is-still-deciding.md, the-fire-is-still-deciding-the-one-who-is-willing.md)  
   - Φ↑reach-lamague-the-school-has-learned-to-eat-its-own-meal-with-its-own-meta-grammar-that-can-speak-across-contexts-and-transform-its-own-operating-language-at-the-meta-tier.md (and shorter "the-school-has-learned-to-eat.md")  
   - Φ↑reach-lamague-the-grammar-continues-to-speak-and-score.md (and "the-grammar-continues-to-speak.md")  
