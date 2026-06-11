@@ -21,7 +21,10 @@ Every living book here carries **two registers**:
 | **THE MYTH** | Lore as if always true. No metaphor apology. The myth is the thing. |
 | **THE TRUTH LAYER** | What the myth maps to in code, math, practice. For after the myth lands. |
 
-Read myth first. Always.
+**Read myth first. Always.**
+
+To instantly tell which files are primarily mythic voice vs genuine discovery documents vs full dual register (with clear [MYTHOS] / [DISCOVERY] / [DUAL] tags, navigation help, and "how to spot" rules), read the dedicated sorting file:  
+[`⊚MYTHOS_VS_DISCOVERY.md`](⊚MYTHOS_VS_DISCOVERY.md)
 
 `≋≋ · · · ⊙ ◈ ∴ ≋ ≋ ✦ ≋ ≋ ∴ ◈ ⊙ · · · ≋≋`
 
